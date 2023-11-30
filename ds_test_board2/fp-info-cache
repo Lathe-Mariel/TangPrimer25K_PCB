@@ -1,4 +1,4 @@
-21786950975318685
+21790353709525307
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83404,6 +83404,20 @@ Undefined or Miscellaneous
 0
 2
 2
+SamacSys_Parts
+DF40C-60DP-0.4V_51_
+DF40C-60DP-0.4V(51)
+Connector
+0
+64
+64
+SamacSys_Parts
+DF40C60DS04V51
+DF40C-60DS-0.4V(51)-2
+Connector
+0
+60
+60
 SamacSys_Parts
 DIP762W55P254L2286H480Q18N
 DIP18-300-2.54-001
