@@ -176,7 +176,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 00c4dc6d-823a-4e6d-8e8e-b5cace74158a)
-    (at 143.129 109.347 180)
+    (at 147.32 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -219,7 +219,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 030d0f5b-e486-4392-aa55-5f8aa3aca1ab)
-    (at 176.149 109.347 180)
+    (at 175.26 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -348,7 +348,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 0775aa80-2acc-4bad-a5f2-2aca583cd171)
-    (at 124.46 114.3 180)
+    (at 126.492 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -520,7 +520,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 0d54815a-9444-4e6f-adb8-4dbd25537981)
-    (at 131.699 109.347 180)
+    (at 136.652 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -848,7 +848,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 1bb47e1c-6c8d-4bd6-a202-623a4122b3e1)
-    (at 134.62 109.347 180)
+    (at 139.7 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -934,7 +934,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 1ef14411-4018-4b5c-93cd-b2ff35912785)
-    (at 210.82 109.728)
+    (at 209.804 124.968)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -977,7 +977,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 201488e7-81af-4054-bc69-31c51280dca1)
-    (at 155.321 109.347 180)
+    (at 157.48 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -1020,7 +1020,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 209ded3f-2d4a-4cc8-a380-1d58367f2327)
-    (at 200.533 109.347 180)
+    (at 198.12 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -1321,7 +1321,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 2cc47000-24a7-43c8-8f5d-ff237f43acec)
-    (at 164.465 109.347 180)
+    (at 165.1 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -1493,7 +1493,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 33931481-23ad-48d4-8b42-69c6f68a8d9b)
-    (at 140.208 109.22)
+    (at 147.32 115.824)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -1579,7 +1579,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 36328e0b-3b54-4980-9ff2-d87bd5d9ec99)
-    (at 182.245 109.347 180)
+    (at 182.88 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -1794,7 +1794,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 3c063e07-544f-4482-810e-7ce06b57b452)
-    (at 191.389 109.347 180)
+    (at 190.5 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -1966,7 +1966,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 461649be-4984-435b-8953-e56d818f2cc7)
-    (at 161.417 109.347 180)
+    (at 162.56 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -2036,7 +2036,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 499aae83-5a3e-4e08-805b-81e09d363885)
-    (at 185.293 109.347 180)
+    (at 185.42 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -2609,7 +2609,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 5eb3d807-fa1e-4998-8d0e-c2b8ba139889)
-    (at 158.369 109.347 180)
+    (at 160.02 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -2878,7 +2878,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 63714dd4-7311-4f59-85f7-bd5fd1d8b14d)
-    (at 167.513 109.347 180)
+    (at 167.64 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -3050,7 +3050,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 6b8cc877-379c-4685-9728-8e8c211d8a0c)
-    (at 137.668 109.22 180)
+    (at 142.24 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -3136,7 +3136,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 71525b6b-418c-45e8-8479-46e0c64105bc)
-    (at 206.629 109.347 180)
+    (at 203.2 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -3222,7 +3222,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 75c3ef8d-fbda-46b4-9010-e49e42e25cb1)
-    (at 170.561 109.347 180)
+    (at 170.18 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -3437,7 +3437,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 8442b170-7be1-463d-bb51-720dac3e3df5)
-    (at 146.177 109.347 180)
+    (at 149.86 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -3523,7 +3523,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 8d3072ca-af3e-4f62-a515-916c480defba)
-    (at 128.524 109.347 180)
+    (at 134.112 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -3609,7 +3609,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 908ebb22-0b11-442c-a92c-80452bd7d9cf)
-    (at 197.485 109.347 180)
+    (at 195.58 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -3652,7 +3652,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 92e4ce53-76b1-4a11-8de1-3642e60451fb)
-    (at 179.197 109.347 180)
+    (at 180.34 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -4268,7 +4268,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp 9fffc970-f69d-4729-8dbd-4dba49f40c4d)
-    (at 203.581 109.347 180)
+    (at 200.66 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -5142,7 +5142,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp b9427cc4-8e5d-43c5-9d4a-8f6ef2e6b74f)
-    (at 194.437 109.347 180)
+    (at 193.04 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -5926,7 +5926,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp ca584059-b736-4fdb-bc65-5e6d421bb458)
-    (at 188.341 109.347 180)
+    (at 187.96 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -5969,7 +5969,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp ce9ea70c-83bd-45a6-9dae-409fb16f6d52)
-    (at 152.273 109.347 180)
+    (at 154.94 124.968 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -6141,7 +6141,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp dd13d7aa-5671-4db6-a044-b65e783bbc86)
-    (at 125.603 109.22 180)
+    (at 131.064 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -6356,7 +6356,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp e96c4823-d4db-4943-b292-2bcfb5885844)
-    (at 173.228 109.22)
+    (at 174.244 122.936)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
@@ -6399,7 +6399,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "F.Cu")
     (tstamp ec6468d7-248a-4db1-b457-03b4d40f2324)
-    (at 149.225 109.347 180)
+    (at 152.4 129.032 180)
     (descr "SMD rectangular pad as test Point, square 1.5mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "ds_test_board3.kicad_sch")
