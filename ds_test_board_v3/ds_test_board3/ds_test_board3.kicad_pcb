@@ -42036,7 +42036,7 @@
 		)
 	)
 	(gr_text "IOB4B"
-		(at 134.112 68.707 0)
+		(at 133.858 68.707 0)
 		(layer "F.SilkS")
 		(uuid "0c769ce0-d168-4ce0-8013-b1c17848f27d")
 		(effects
@@ -42048,7 +42048,7 @@
 		)
 	)
 	(gr_text "IOB12B"
-		(at 146.558 65.151 0)
+		(at 146.812 65.151 0)
 		(layer "F.SilkS")
 		(uuid "0fd9c038-9cfb-4da3-9989-aef99daffd92")
 		(effects
@@ -42144,7 +42144,7 @@
 		)
 	)
 	(gr_text "M0_D0N"
-		(at 199.644 68.707 0)
+		(at 199.517 68.707 0)
 		(layer "F.SilkS")
 		(uuid "1a8e1709-b680-4cc3-b0b3-85eea1ebc33e")
 		(effects
@@ -42312,7 +42312,7 @@
 		)
 	)
 	(gr_text "M0_CKP"
-		(at 181.864 65.151 0)
+		(at 182.118 65.151 0)
 		(layer "F.SilkS")
 		(uuid "3986e3d1-a3be-4a23-9550-8c15a2b24cfc")
 		(effects
@@ -42432,7 +42432,7 @@
 		)
 	)
 	(gr_text "M0_D1P"
-		(at 189.484 68.707 0)
+		(at 189.738 68.707 0)
 		(layer "F.SilkS")
 		(uuid "4f957314-deb0-4c1a-9e2f-2382ab1899f1")
 		(effects
@@ -42480,7 +42480,7 @@
 		)
 	)
 	(gr_text "M0_D2N"
-		(at 176.784 65.151 0)
+		(at 176.53 65.151 0)
 		(layer "F.SilkS")
 		(uuid "5e28520b-1276-4a7a-98f5-f5e1f9e29c65")
 		(effects
@@ -42516,7 +42516,7 @@
 		)
 	)
 	(gr_text "M0_D3N"
-		(at 169.164 68.707 0)
+		(at 168.91 68.707 0)
 		(layer "F.SilkS")
 		(uuid "6277f5f6-469c-4cf5-ac83-8bc15811f5f8")
 		(effects
@@ -42768,7 +42768,7 @@
 		)
 	)
 	(gr_text "M0_CKN"
-		(at 184.15 68.707 0)
+		(at 184.023 68.707 0)
 		(layer "F.SilkS")
 		(uuid "80353895-a843-4c11-82ce-d5a5316ac6c1")
 		(effects
@@ -42792,7 +42792,7 @@
 		)
 	)
 	(gr_text "TDI"
-		(at 162.56 65.151 0)
+		(at 162.814 65.151 0)
 		(layer "F.SilkS")
 		(uuid "81760170-e17c-4cae-afd4-5b6694333476")
 		(effects
@@ -42816,7 +42816,7 @@
 		)
 	)
 	(gr_text "IOB14B"
-		(at 149.225 68.707 0)
+		(at 149.352 68.707 0)
 		(layer "F.SilkS")
 		(uuid "84d7aae5-6c92-45a9-8b8a-86d56b1a85e0")
 		(effects
@@ -42912,7 +42912,7 @@
 		)
 	)
 	(gr_text "M0_D1N"
-		(at 192.024 65.151 0)
+		(at 191.897 65.151 0)
 		(layer "F.SilkS")
 		(uuid "91930e94-de11-4588-9864-aebcec4cd4c4")
 		(effects
@@ -43344,7 +43344,7 @@
 		)
 	)
 	(gr_text "M0_D2P"
-		(at 174.244 68.707 0)
+		(at 174.498 68.707 0)
 		(layer "F.SilkS")
 		(uuid "e06806a9-91d4-4440-8046-a1e9d1df5b31")
 		(effects
@@ -43560,7 +43560,7 @@
 		)
 	)
 	(gr_text "M0_D0P"
-		(at 197.104 65.151 0)
+		(at 197.358 65.151 0)
 		(layer "F.SilkS")
 		(uuid "fa941533-7b57-4bd5-b23a-1ebfd1440290")
 		(effects
